@@ -21,7 +21,7 @@ Expense Tracker is a Python application that allows users to manage their expens
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/expense-tracker.git
+    git clone https://github.com/KunalSharma108/expense-tracker.git
     ```
 
 2. Navigate to the project directory:
