@@ -39,7 +39,7 @@ Expense Tracker is a Python application that allows users to manage their expens
 4. Run the application:
 
     ```bash
-    python expense_tracker.py
+    python index.py
     ```
 
 5. Follow the on-screen prompts to use the application.
