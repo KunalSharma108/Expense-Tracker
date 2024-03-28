@@ -14,7 +14,7 @@ Expense Tracker is a Python application that allows users to manage their expens
 ## Technologies Used
 
 - Python
-- SQLite
+- SQL
 
 ## Usage
 
